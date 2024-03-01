@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://danish-portfolio-12345.netlify.app/](https://danish-portfolio-12345.netlify.app/)
+- 👨‍💻 All of my projects are available at [Muhammmad-Danish-Portfolio](https://danish-portfolio-12345.netlify.app/)
 
 - 💬 Ask me about **JavaScript**
 
